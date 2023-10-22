@@ -1,1 +1,2 @@
 wa-automate-python==0.0.1
+selenium
